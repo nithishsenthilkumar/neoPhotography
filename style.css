@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: lavenderblush;
+    width: 100%;
+}
+
+.head{
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 300px;
+    padding-left: 200px;
+    text-align: center;
+}
+
+.img img{
+    padding-left: 490px;
+}
+
+.text1 h1{
+    padding-left: 150px;
+    margin-top: 280px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.text h2{
+    margin-top: 10px;
+}
+
+.text button{
+    margin-top: 10px;
+    line-height: 15px;
+    width: 90px;
+    border: 2px solid black;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.text button a:hover{
+    color: red;
+    text-decoration: none;
+}
+.img1 img{
+    height: 70vh;
+    width: 40vw;
+    margin-left: 240px;
+    margin-top: 40px;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.img1{
+    display: flex;
+}
+
+.img2{
+    display: flex;
+}
+
+.img2 img{
+    height: 70vh;
+    width: 40vw;
+    margin-left: 100px;
+    margin-top: 40px;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.text2 p{
+    padding-left: 200px;
+    margin-top: 280px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.img4{
+    display: flex;
+}
+
+.img4 img{
+    height: 70vh;
+    width: 40vw;
+    margin-left: 80px;
+    margin-top: 40px;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.text4 p{
+    padding-left: 200px;
+    margin-top: 280px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.img3 img{
+    height: 70vh;
+    width: 40vw;
+    margin-left: 190px;
+    margin-top: 40px;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.img3{
+    display: flex;
+}
+
+.text3 p{
+    padding-left: 150px;
+    margin-top: 280px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+
